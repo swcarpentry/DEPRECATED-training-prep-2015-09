@@ -1,0 +1,4 @@
+I work in the field of radiation measurement, detection, and imaging for 
+medical and nuclear security applications. Specifically, I work on developing
+acquisition and analysis software packages for several types of advanced 
+radiation imagers.
