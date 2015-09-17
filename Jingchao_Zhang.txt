@@ -1,5 +1,5 @@
 Dr. Jingchao Zhang
 HPC Applications Specialist
-Hollamd Computing Center
+Holland Computing Center
 University of Nebraska Lincoln
 Responsible for working with researchers and supercomputer system administration staff and students to port, produce and optimize code, and facilitate and organize grant proposals related to, and supportive of, the facilities of the HCC.
