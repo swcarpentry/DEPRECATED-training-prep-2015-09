@@ -1,0 +1,1 @@
+I am computational biologist working in the areas of genome evolution and bioinformatics. I use a combiation of high-throughput sequence data and simulation to make inferences about the evolutionary and functional signals encoded in the genomes of insect, yeast and bacteria.
