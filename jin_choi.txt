@@ -1,0 +1,2 @@
+Metagenomics
+Building database of reference soil sequences. Carbon cycling related bacterial change in the soil system under different agricultural crop and addition of fertilizer. Analysing metagenomic data.
