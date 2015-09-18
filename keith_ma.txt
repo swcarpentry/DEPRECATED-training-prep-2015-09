@@ -1,0 +1,14 @@
+I am currently working at Boston University as a "Scientific Programmer /
+Analyst" with the Research Computing Services team. My primary roles are 1) to
+help the BU research community to develop/optimize/parallelize software they
+need for their research, particularly as they scale up and make use of our
+supercomputing cluster, and 2) to teach introductory tutorials to get
+researchers started with popular languages and applications (e.g. Python,
+MATLAB, R, OpenMP, etc.).
+
+My research background is in Geology & Geophysics, specifically the impact of
+glacial erosion on mountain size and shape over the past ~6 million years. With
+respect to programming, my work includes numerical modelling of glaciers,
+rivers, and mountain topography, as well as computationally intensive analysis
+of experimental and laboratory data. God-willing, I will earn my PhD from Yale
+in the coming months.
