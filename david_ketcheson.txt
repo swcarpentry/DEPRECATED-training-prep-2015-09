@@ -1,0 +1,2 @@
+I'm a numerical analyst: I study methods for discretizing differential
+equations and computing their approximate solution.
