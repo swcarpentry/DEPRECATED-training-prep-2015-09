@@ -1,0 +1,7 @@
+I am a 5th year graduate student at MIT Biological Engineering. I am solving problems in infectious disease using data science techniques. Problems I am currently working on are:
+
+1. Identifying reassortant influenza viruses at scale.
+2. Predicting influenza and HIV phenotype from genotype data using ensemble learning and neural networks.
+3. Phasing influenza genomic segments in mixed samples using NGS data.
+
+I have led two tutorials at PyCon 2014 and 2015, on data analysis and network analysis respectively. 
