@@ -1,0 +1,3 @@
+I'm Andreas Mueller, Research Engineer at NYU.
+I spend most of my time doing development and maintenance for the open source project scikit-learn.
+I'm mostly a Python coder, but can handle C and C++.
