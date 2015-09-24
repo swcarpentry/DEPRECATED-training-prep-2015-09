@@ -1,0 +1,2 @@
+I'm currently an Assistant Professor at the Center for Genomics and Bioinformatics, Universidad Mayor, in Chile.
+My work focuses in using genomics and metagenomics approaches to understand microbial diversity, using both novel datasets, but also taking advantage of information that is already available in databases.
