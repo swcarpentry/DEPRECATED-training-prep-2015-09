@@ -1,0 +1,7 @@
+In October I'm starting my new job as the Assistant Head Librarian of the
+Harvard-Smithsonian Center for Astrophysics in Cambridge, MA. My work focuses
+on data and computational literacy and fostering community development among
+researchers in computationally-intensive settings. I have a MS in Library and
+Information Science from Syracuse University and am currently pursing a second
+MS as a distance student through the City University of New York in Data 
+Analytics. I'm excited to go through Software Carpentry Training.
