@@ -1,0 +1,1 @@
+I work in bioinformatics support at EMBL, where amongst other things I provide consultancy and training for computational biologists. I run courses on the basics of Python programming, Unix command line computing and other topics that are useful to biologists learning about computational approaches to science.
