@@ -1,0 +1,4 @@
+I am a computational biologist working on discovering new antibiotics. As
+scientific software engineer, I'm in charge of the antiSMASH software pipeline
+(antismash.secondarymetabolites.org) and a number of related web tools that
+focus on making computational tools accessible to biologistst.
