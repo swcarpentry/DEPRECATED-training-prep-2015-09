@@ -1,0 +1,3 @@
+I am a software developer and researcher at a bioinformatics institute (SANBI). I've taught Python to graduate students for a number of
+years (a 7 week course) and, as a result developed an interest in teaching that has culminated in collaboration on Software Carpentry
+workshops in South Africa.
