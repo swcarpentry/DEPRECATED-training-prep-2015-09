@@ -1,0 +1,3 @@
+I am a PhD student in Computer Science at University of Nebraska-Lincoln.
+My main research field is Bioinformatics and generating/optimizing genome/transcriptome assembly.
+I am also working on utilization and dynamic allocation of HPC resources for running various bioinformatics tools.
