@@ -1,0 +1,5 @@
+My main project at the moment is using RNA sequence data (Illumina 
+RNA-seq and its variations like ChIP-seq and CAGE-seq, as well as PacBio 
+Iso-seq) to determine transcript structures in a high-expression, 
+gene-dense viral genome. I'm also more broadly interested in cellular 
+and viral transcriptome analysis.
