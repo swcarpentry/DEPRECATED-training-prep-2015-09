@@ -1,0 +1,1 @@
+As a research data manager I am working at the interface between science (until recently climate science, now aquatic sciences) and software-tools. My work includes scientifc programming, development of data management tools and, most importantly, knowledge-transfer regarding good programming practice and data handling techniques.
