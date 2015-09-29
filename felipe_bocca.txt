@@ -1,0 +1,3 @@
+
+
+I am currently a PhD studente, working with data mining for modelling sugarcane production/yield for better Nitrogen fertilization management based on input response and economic parameters. My work involves getting data from mills, weather and satelite, combining than and modeling. In R, this is accomplished by several libraries and python with Numpy, Pandas, Sklearn and Scipy. 
