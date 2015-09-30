@@ -1,0 +1,1 @@
+Hi, I'm Catherine Olsson, a Ph.D. student in the Center for Neural Science at NYU. I do computational modeling of fMRI signals from human visual cortex, which involves a lot of image synthesis, data analysis, and model-fitting.
