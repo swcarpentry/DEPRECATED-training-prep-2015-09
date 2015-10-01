@@ -1,0 +1,3 @@
+Hi!
+My name is Joaquín Morís, currently I'm a lecturer, specialized in cognitive neuroscience and psychology.
+I use regularly R, Matlab and Python in UNIX enviroments, and I've taught some programming workshops, mostly focused on data analysis using Matlab.
