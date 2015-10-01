@@ -1,0 +1,4 @@
+I am a consultant in research computing for Northwestern University. 
+In addition to helping users with HPC programming, data storage, and other cyberinfrastructure, 
+I also teach several programming and computer skills workshops. I also assess computing and data
+needs in the research community at Northwestern.
