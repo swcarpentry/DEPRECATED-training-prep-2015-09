@@ -1,7 +1,1 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf210
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
-
-\f0\fs24 \cf0 Im a PhD student in the zoology department at UBC. Im working on insect communities that live inside plants. I usually have to deal with large amounts of data and I\'92ve been using R for four years now. I really like teaching and so I took an instructional skills workshop. I recently taught an introductory course in R in Brazil and I already started getting involved with the software carpentry group in Vancouver, where I helped them teach R at the LSI workshop in July this year. }
+Im a PhD student in the zoology department at UBC. Im working on insect communities that live inside plants. I usually have to deal with large amounts of data and I\'92ve been using R for four years now. I really like teaching and so I took an instructional skills workshop. I recently taught an introductory course in R in Brazil and I already started getting involved with the software carpentry group in Vancouver, where I helped them teach R at the LSI workshop in July this year. 
