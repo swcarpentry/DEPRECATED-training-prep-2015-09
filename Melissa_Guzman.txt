@@ -1,1 +1,3 @@
-Im a PhD student in the zoology department at UBC. Im working on insect communities that live inside plants. I usually have to deal with large amounts of data and I\'92ve been using R for four years now. I really like teaching and so I took an instructional skills workshop. I recently taught an introductory course in R in Brazil and I already started getting involved with the software carpentry group in Vancouver, where I helped them teach R at the LSI workshop in July this year. 
+Im a PhD student in the zoology department at UBC. Im working on insect communities that live inside plants. 
+I usually have to deal with large amounts of data and I\'92ve been using R for four years now. 
+I really like teaching and so I took an instructional skills workshop. I recently taught an introductory course in R in Brazil and I already started getting involved with the software carpentry group in Vancouver, where I helped them teach R at the LSI workshop in July this year. 
