@@ -1,0 +1,6 @@
+I am an economist by training, and work as a data scientist at Civis Analytics.
+My role is about equal parts machine learning and statistics researcher, statistical
+consultant, and software engineer. I contribute to the Python data stack, am
+the co-lead developer of the statsmodels project, and often lead tutorials
+at meetups and universities on doing numerical computing and data wrangling with
+Python.
