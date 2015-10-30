@@ -1,0 +1,3 @@
+I work with the Computational Neuroscience Research Group at the University
+of Waterloo, where we build spiking neural networks to make machines smarter
+and get a better understanding of the human brain.
