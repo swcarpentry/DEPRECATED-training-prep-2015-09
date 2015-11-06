@@ -1,0 +1,10 @@
+I originally studied as an electrical engineer, and worked for 6 years
+in the scientific instrumentation industry.
+
+I loved working alongside biologists in academia, just joined the
+biology PhD program, and am rotating in a microbial evolution lab
+studying phylogeny using Python and Bash scripts.
+
+I earn my bread as a sysadmin for the University's HPC cluster and
+will be teaching a monthly 2 hour "Intro to HPC" user training class
+(GNU/Linux commandline, scheduler, parallel computing).
