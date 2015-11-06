@@ -1,0 +1,3 @@
+I am a PhD student studying evolutionary genetics at UBC. 
+I use a variety of computational tools (in UNIX and R) to study how new species are formed.
+I have experience running R workshops, TAing an R course, and TAing seven various biology courses.
