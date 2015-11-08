@@ -1,0 +1,2 @@
+I am a PhD student in Botany at the University of British Columbia. I study the genomics of hybridization and regularly use R and perl to analyze and plot data.
+I would like to take the software carpentry instructor workshop to improve at communicating programming. 
