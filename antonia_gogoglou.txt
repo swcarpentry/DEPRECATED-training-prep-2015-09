@@ -1,0 +1,5 @@
+I am a phd candidate in the Department of Informatics, at Aristotle University of Thessaloniki
+I work on the field of Scientometrics/Bibliometrics 
+Generally, I apply data mining methods and analyze results in my field of interest
+My specific focus is on complex networks, correlation analysis, machine learning and mining databases
+I mostly work with Matlab, python and R.
