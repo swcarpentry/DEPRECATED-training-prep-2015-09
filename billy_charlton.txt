@@ -1,0 +1,1 @@
+Hi there, I build computer simulations of regional traffic and transit patterns based on human behavior research. We use these models to predict the future! And to prioritize billions of dollars of transportation investments. It's fun!
