@@ -1,0 +1,3 @@
+I am a research scientist at NCEAS (National Center for Ecological Analysis and Synthesis) at UCSB 
+(University of California at Santa Barbara), training international governments, NGOs, and academics how to use 
+the Ocean Health Index methodology, which is built with R/RStudio packages, displayed with Shiny, and distributed on GitHub. 
