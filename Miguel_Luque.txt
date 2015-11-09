@@ -1,0 +1,3 @@
+I am a Lecturer in Epidemiology teaching Distance Lerning
+I hold PhD in Epidemiology and MSc in Biostatistics.
+I have experience with command line (UNIX), R(Rstudio), SQL and Stata softwares
