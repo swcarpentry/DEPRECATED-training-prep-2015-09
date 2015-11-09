@@ -1,0 +1,4 @@
+I am PhD student in the Computational Neuroscience Research Group at the 
+University of Waterloo where I build spiking neural models to improve our 
+understanding of human memory. I am also involved in the development of the 
+Nengo neural simulator.
