@@ -1,0 +1,5 @@
+I am a PhD student in computational neuroscience at Plymouth University, UK and
+a visiting scholar at University of Waterloo in Canada. I am using computer
+simulations of neural networks to investigate human cognition and intelligence.
+I am interested in programming education and teaching programming to students
+without technical backgrounds.
