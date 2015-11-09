@@ -1,0 +1,2 @@
+I am a MSc candidate in Physiology doing graph theoretical analyses of brain networks.
+I use Python for most of my programming and R for more statistics-based work. 
