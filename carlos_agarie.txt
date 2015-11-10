@@ -1,0 +1,5 @@
+I am an electrical engineer currently on a Master of Sciences in Machine
+Learning at Universidade de São Paulo (USP), in Brazil. I have 2.5 years of
+experience with Python (using it both for back-end web development and
+scientific computing). I was also a mentor for Google Summer of Code in 2014
+and 2015, as a member of an organization called SciRuby.
