@@ -1,0 +1,7 @@
+
+Akima George
+3rd year Grad student PhD in Bioinformatics
+Concentration: Human Genetics
+Languages: Java, R, Python, Perl
+Project: Identifying potential genetic modifiers to hereditary diseases with incomplete penetrance. 
+
