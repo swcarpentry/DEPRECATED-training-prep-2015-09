@@ -1,0 +1,4 @@
+My research focuses on biodiversity using omics approach in supporting sustainable agriculture.
+I have over 8 years experience in developing and using bioinformatics tools to process and analyze larger biological data sets.
+My lab provides trainings and consultation in R, perl, bash and the use of in-house software to colleagues and students in North America.
+We hope to improve our teaching skills and knowledge.
