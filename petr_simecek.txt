@@ -1,0 +1,1 @@
+I am working as a Bioinformatics Analyst at The Jackson Laboratory, mostly with mRNA and protein expression data.  I use R for >10 and Python for 3 years but my teaching experience is rather limited (practice lessons given during my PhD).   
