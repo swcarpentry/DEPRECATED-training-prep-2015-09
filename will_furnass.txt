@@ -1,0 +1,6 @@
+Will Furnass is a Post-Doctoral Research Associate in Civil and Structural Engineering [1] at the University of Sheffield.  His somewhat non-linear career path has taken in a computer science undergraduate degree, several years of IT systems engineering (so he is very familiar with Bash/Linux) and a PhD in water engineering (which involved numerical modelling using Python).  In October, he was a Helper at a Data Carpentry workshop in Leeds [2].  Other teaching experience includes: running soft skills workshops at the University [3], trying to get civil engineers interested in things like research data management [4] and version control and lecturing on water-engineering-related subjects.  He is a member of the Python Sheffield group.
+
+[1] https://www.shef.ac.uk/civil/staff/research/furnassw
+[2] http://hpcarcher.github.io/2015-10-29-Leeds-DC/
+[3] http://www.sheffield.ac.uk/ssid/301/services/workshops
+[4] https://github.com/willfurnass/RDMPresentationApr2014
