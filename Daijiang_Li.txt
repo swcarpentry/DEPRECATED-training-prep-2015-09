@@ -1,0 +1,4 @@
+I am a Ph.D candidate at University of Wisconsin-Madison.
+I am a community ecologist and statistician.
+I told command line in one previous software carpentry workshop at UW-Madison.
+I have experience with shell, git, and R.
