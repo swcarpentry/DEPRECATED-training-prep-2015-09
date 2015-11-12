@@ -1,0 +1,8 @@
+I'm a senior interactive visualization specialist at Northwestern University and 
+a Ph.D. candidate at the Electronic Visualization Lab, University of Illinois at Chicago
+
+I'm into Virtual Reality and Immersive Systems, Human Computer Interaction, 
+Scientific and Information Visualization, Tiled Display Systems, GPU Programming and Videogame Design.
+
+I use python, C++ and web technologies regularly in my work, and I regularly work with domain scientists
+in a variety of fields (Biology, Earth Sicences, Humanities, Astrophysics etc).
