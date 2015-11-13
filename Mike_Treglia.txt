@@ -1,0 +1,2 @@
+I am a Postdoctoral researcher, focused on landscape ecology and conservation. I strive to make my work reproducible, and use tools such as R and shell scripts to most data processing/analysis I need to carry out, and git for version control.
+I have also taught courses and workshps, and would be excited to work with Software Carprentry to expand my teaching experience and build my teaching resources.
