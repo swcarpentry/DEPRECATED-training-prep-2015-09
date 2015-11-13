@@ -1,0 +1,1 @@
+I am a geophysicist specializing in seismic imaging and inversion. Most of my current research involves building and extending parallel wave-equation modelling and inversion codes; this requires using a mix of Python, Cython, Fortran and C. I also have about 17 years of Linux experience, and administer several research systems.
