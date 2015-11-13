@@ -1,0 +1,2 @@
+I am a grad student in economics. My work relates to subsidies for PV solar 
+panels and I use R and git regularly.
