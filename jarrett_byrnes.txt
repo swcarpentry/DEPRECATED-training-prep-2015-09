@@ -1,0 +1,3 @@
+I'm an assistant professor in the Biology department at UMass Boston. There, I am a marine community ecologist with a heavy emphasis on synthesis ecology. I've spend the last ten years working and developing in R, although I have some background in PERL. I currently teach computational approaches to data analysis to graduate students and am developing introductory to data science courses for undergraduates. 
+
+I'm quite excited for this class to ramp up my pedagogical toolset and become a better instructor, both so that I can help spread open science techniques via SWC workshops as well as in my own classes at UMB.
