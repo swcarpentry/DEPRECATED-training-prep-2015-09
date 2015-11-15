@@ -1,0 +1,4 @@
+I'm a MSc student in Electrical Engineering at the University of Campinas, Brazil.
+I'm studing a distribution problem in a supply chain management.
+I programmed my metaheuristics in Julia.
+In general, I have to deal with a lot of test files to study my problem.
