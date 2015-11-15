@@ -1,0 +1,1 @@
+I am a Post-Doctoral Research Associate in Solar Physics at the University of Sheffield, and have made several contributions to SunPy, an open-source Python solar physics library. My work involves numerical simulations of magnetic waves in the solar atmosphere, and for my PhD I developed a method to calculate solar atmospheric temperatures using Python and Fortran.
