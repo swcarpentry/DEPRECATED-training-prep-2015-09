@@ -1,0 +1,1 @@
+I am part of the NGCM iPhD programme, 2015 cohort at the University of Southampton.\nI will start doing research in the Fluid Structures Interaction group at UoS on the Overset Grid method. I will add this capability to the CFD simulation software ReFRESCO that has been developed by MARIN NL.
