@@ -1,0 +1,2 @@
+I am a PhD student at the University of Southampton.
+My work involves Agent-Based modelling for High-Frequency trading.
