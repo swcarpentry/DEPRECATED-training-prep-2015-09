@@ -1,0 +1,1 @@
+I am a trained physicist now working in computational neuroscience. I have been using Python for more than 10 years. I am a devout Python advocate. I have done several minor contributions to Python libraries (including NumPy and matplotlib) and created some libraries myself, but my favourite activity is teaching Python to beginners and advanced learners alike.
