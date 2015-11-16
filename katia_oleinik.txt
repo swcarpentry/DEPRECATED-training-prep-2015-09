@@ -1,0 +1,1 @@
+I am a scientific programmer at Boston University. I work with various research groups. The software I use includes C/C++, Fortran, R, Perl, Python, Mathematica, CUDA, openGL, MATLAB and some other languages/applications. 
