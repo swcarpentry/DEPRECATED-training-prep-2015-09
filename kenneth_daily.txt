@@ -1,0 +1,7 @@
+I work at Sage Bionetworks, a non-profit that works to redefine how complex biological data is gathered, shared and used, redefining it through
+open systems, incentives, and norms.
+
+We have developed a tool, Synapse, as an  platform dedicated to supporting the large-scale pooling of data, knowledge, and expertise across institutional boundaries to
+solve some of the most challenge problems in biomedical research.
+
+I work on projects using Synapse ranging from data coordinating and statistical analyses for the Progenitor Cell Biology Consortium, the MEP-LINCS project at OHSU, and a community-based challenge exploring breast cancer susceptibility sponsored by the National Cancer Institute.
