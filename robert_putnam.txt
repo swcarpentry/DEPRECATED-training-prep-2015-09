@@ -1,0 +1,6 @@
+I work in Research Computing Services, a group within Information Services & Technology at
+Boston University.  Our group runs the HPC computers on and off campus (e.g., at the
+Massachusetts Green High Performance Computing Center in Holyoke, MA) and provides
+software consulting services to students and faculty on the Charles River and Medical
+campuses.  I'm a C (previously Lisp) programmer by trade, but I am trying to come up to
+speed in more modern languages, esp. Python.
