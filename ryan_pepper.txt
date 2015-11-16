@@ -1,0 +1,1 @@
+I'm Ryan Pepper and I'm a PhD student in the Next Generation Computational Modelling CDT at the University of Southampton. My research involves finite element simulations of the magnetic properties of nanostructures. 
