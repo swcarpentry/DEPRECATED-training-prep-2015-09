@@ -1,0 +1,4 @@
+cera_fisher.txt 
+
+I am an evolutionary entomologist and bioinformatician. I work with high-throughput sequencing data. I routinely write Perl and Bash scripts to help me manipulate my data and set up analysis jobs, and wrote my own custom pipeline to handle quality analysis and quality control of my data. It is published in my repo petulant-avenger on github. 
+
