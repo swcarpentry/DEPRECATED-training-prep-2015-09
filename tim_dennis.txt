@@ -1,0 +1,2 @@
+I'm the Data Librarian for the UCSD Library. I help researchers with data research and statistical tools. I also work with our
+Research Data Curation Program to educate researchers on data management and research tools (including R, python, etc.).
