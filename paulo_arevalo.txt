@@ -1,0 +1,4 @@
+I am a Geography PhD student in the Department of Earth & Environment at Boston University.
+I use time series of all available Landsat satellite imagery to map and understand land cover change in the tropics.
+This requires the collection of training data to classify time series segments, analysis of resulting annual maps of land cover,
+and identification of temporal trends based on defined transitions of interest (e.g. conversion from forest to pastures).
