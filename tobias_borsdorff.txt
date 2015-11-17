@@ -1,0 +1,3 @@
+I am using satellite measurements to estimate the concentration of trace gases in
+the earth atmosphere. For example, a global picture of the atmospheric
+concentration of carbon monoxide can help to understand anthropogenic air pollution. 
