@@ -1,0 +1,1 @@
+I am a community ecologist who uses R for a variety of statistical and programming tasks. I have also taught a number of courses on using R for statistics and GIS analysis.
