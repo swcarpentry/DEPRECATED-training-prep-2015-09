@@ -1,0 +1,4 @@
+I am a graduate student at the Computer Science Department at UTA.
+I am a member of Linux User Group.
+I areas of interest include parallel and distributed computing,operating systems.
+I love teaching and have taught undergraduate students during my masters.
