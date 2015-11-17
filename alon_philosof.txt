@@ -1,0 +1,1 @@
+My name is Alon, I'm a PHD student in the faculty of biology at the Technion in Israel. I've been doing computational biology for six years using Python, R, bash among others. I've been teaching biology and brewing courses for many years and very excited to join the Software Carpentry community :)
