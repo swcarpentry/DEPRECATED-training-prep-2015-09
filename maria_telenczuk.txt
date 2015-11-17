@@ -1,0 +1,1 @@
+I am a PhD student in computational neuroscience. I am interested in the initiation of the action potentials and their dynamics at the onset. I am using Python, Neuron and Brian2 towards our understanding how morphology of the neuron might impact action potential as recorded experimentally.
