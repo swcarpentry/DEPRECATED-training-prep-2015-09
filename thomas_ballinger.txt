@@ -1,0 +1,4 @@
+I worked as a technical research assistant for several years at the Psychiatry Neuroimaging Lab at Brigham and Women's Hospital, Harvard Medical School.
+I worked as a facilitator at the Recurse Center, a programming retreat in New York City, for several years.
+
+I'm interested in pedagogy, Python, developer tools and scientific tools, all of which I write about occasionally at ballingt.com.
