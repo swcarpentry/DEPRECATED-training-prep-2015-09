@@ -1,0 +1,1 @@
+Currently, I am developing analysis software for satellite data. Basically it converts spectral (satellite) data into physical parameters, typically concentrations of atmospheric trace gases, such as carbon dioxide, methane, water etc. 
