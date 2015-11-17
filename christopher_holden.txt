@@ -1,0 +1,5 @@
+I am PhD candidate at Boston University in the Dept of Earth & Environment.
+I use timeseries of remote sensing data to create descriptive histories of and
+activitely monitor for land surface cover and condition change.
+I used Python to develop a visualization tool and library for analyzing 
+remote sensing timeseries.
