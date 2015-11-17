@@ -1,0 +1,2 @@
+I am a postdoctoral researcher in computational neuroscience, working on neural models of sensory systems and on a Python software for simulating spiking neural networks (the Brian simulator). I have taught introductory computer science courses to non-computer scientists (basic hardware architecture, number representation, UNIX shell, programming) during my PhD and given several presentations and tutorials about the Brian simulator.
+
