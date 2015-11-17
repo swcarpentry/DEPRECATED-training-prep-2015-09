@@ -1,0 +1,4 @@
+I am a PhD Student at UT Arlington majoring in Quantitative Biology. My work is genomics based investigating hybrid zones within the Australian 
+gecko complex (Heteronotia binoei). My work utilizes python, shell, and bioinformatic pipelines in order to garner results for big data that is 
+synonomous with genomic type work. I have gathered many skills using programming based methods in order to analyze my data and would love to share 
+my expertise with other students either in the field or going into the field through Software Carpentry. 
