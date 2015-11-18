@@ -1,2 +1,3 @@
 My name is Erin Dickie. I'm a Research Analyst working at the Center for Addiction and Mental Health in Toronto, Canada.
-I study the brain correlates of mental health problems by analyzing various types of Magnetic Resonance (MR) Images.  
+I study the brain correlates of mental health problems by analyzing various types of Magnetic Resonance (MR) Images. 
+
