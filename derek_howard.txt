@@ -1,0 +1,2 @@
+I am a graduate student in the department of Physiology at the University of Toronto and the Hospital for Sick Children. 
+I work on the development of neuronal excitability and synaptic transmission. I use Python for data analysis and model building. I previously went through an online version of SWC training but did not complete my last PR. I'm excited to practice more teaching and get over the GitHump.
