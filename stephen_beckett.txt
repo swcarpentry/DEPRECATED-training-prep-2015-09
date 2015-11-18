@@ -1,0 +1,3 @@
+I am postdoctoral researcher working on marine viral ecology at the Georgia Institute of Technology in Atlanta.
+My research involves creating code to model population dynamics and the tools to analyse them.
+I've experience writing code in a few languages, but would like to gain more knowledge about how to teach these important skills!
