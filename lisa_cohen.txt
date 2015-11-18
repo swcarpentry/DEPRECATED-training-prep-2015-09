@@ -1,0 +1,1 @@
+I am a 1st year PhD student at UC Davis in the Molecular, Cellular, and Integrative Physiology (MCIP) graduate group. I work in C. Titus Brown's lab, currently writing an automated and reproducible pipeline for assembling, annotating, and analyzing data from the Marine Microbial Eukaryotic Transcriptome Sequencing (MMETSP) project. 
