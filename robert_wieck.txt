@@ -1,0 +1,1 @@
+My Name is Rob Wieck, I currently work for the University of Notre Dame Center for Reseach Computing as a Web Developer.  I primarily program in PHP/Javascript, but have some small experience in other languages.
