@@ -1,1 +1,1 @@
-I work on statistical tests in population and landscape genomics, and I also do molecular ecology.
+I work on statistical tests in population and landscape genomics, and I also do molecular ecology.  I have been involved in a Hackathon for population genetics methods in R.
