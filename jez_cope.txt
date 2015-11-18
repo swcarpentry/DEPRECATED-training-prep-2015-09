@@ -1,1 +1,8 @@
-I am Research Data Manager at the University of Sheffield, United Kingdom, where I help researchers across all disciplines to understand how to properly manage and share their research data. This involves working with our IT services to build the required infrastructure, with our research office to ensure compliance with funder policies, along with a lot of outreach, training, advocacy and consultancy with individuals, groups and departments.
+I am Research Data Manager at the University of Sheffield, United Kingdom,
+where I help researchers across all disciplines
+to understand how to properly manage and share their research data.
+This involves working
+with our IT services to build the required infrastructure,
+with our research office to ensure compliance with funder policies,
+along with a lot of outreach, training, advocacy and consultancy
+with individuals, groups and departments.
