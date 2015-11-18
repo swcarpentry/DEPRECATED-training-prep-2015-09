@@ -1,0 +1,5 @@
+  I am a PhD student at the EPSRC centre for doctoral training in next generational
+  computational modeling - my particular research project involves developing new
+  non-linear methods for x-ray CT reconstruction. In a previous life I was a secondary
+  school teacher and so I am very much interested in how we can develop excellent pedagogy
+  in both computational modeling and mathematics.
