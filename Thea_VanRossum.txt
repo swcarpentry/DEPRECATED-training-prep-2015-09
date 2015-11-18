@@ -1,1 +1,2 @@
 
+I am a graduate student studying microbial bioinformatics. I use a lot of R and bash. 
