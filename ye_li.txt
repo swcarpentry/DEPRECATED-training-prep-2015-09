@@ -1,0 +1,6 @@
+My name is Ye Li and I am a Science Librarian at the University of Michigan. 
+
+I help students and researchers with their data and information needs for research, teaching and learning. One focus is to help researchers establish good practices in handling research data with enabling better data sharing and preservation in mind.   
+
+I took the Software Carpentry Training this August. And I am currently working on the Data Science signature track provided by John Hopkins University through Coursera, where I learned to use R and GitHub more extensively. 
+
