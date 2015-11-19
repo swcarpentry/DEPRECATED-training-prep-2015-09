@@ -1,0 +1,2 @@
+I am an astronomy research scientist at the Space Telescope Science Institute. I recently moved from Yale University. 
+I am part of the team maintaining one of the instruments on the Hubble Space Telescope. As part of my work I develop software tools for the analysis of observations from Hubble. I also study galaxies in the distant universe. I am the project manager for the awesome 3D-HST Survey (more info here: 3dhst.research.yale.edu). Also more info about me can be found on my webpage: http://www.astro.yale.edu/iva/
