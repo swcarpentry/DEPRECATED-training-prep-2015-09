@@ -1,0 +1,1 @@
+I am a Bioinformatics Programmer who has 3 years of experience in phylogenetic, metagenomics and sequence management.  I have experience with R, Python, Perl, and Bash.  I have participated in and led training on a variety of topics from genomics, phylogenetics, cluster computing, R, and metagenomics.  
