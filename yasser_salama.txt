@@ -1,0 +1,1 @@
+I am a Masters student at McMaster University in Ontario, Canada. My research focus is on the use of bioinformatics to analyze metagenomic DNA obtained from environmental samples, namely beaches, for the purpose of improving environmental and water quality monitoring programs. I use CLI, tcsh/bash, and perl on a daily basis, and python and R on a less frequent basis.
