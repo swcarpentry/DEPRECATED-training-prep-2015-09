@@ -1,0 +1,1 @@
+I am a postdoctoral fellow in the Collins Lab at NHGRI. I study the epigentic basis of type 2 diabetes. I work primarily with R, python, and SQL.
