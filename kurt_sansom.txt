@@ -1,0 +1,8 @@
+I currently work on creating computational fluid dynamics
+data for a patient specific dopplar ultrasound simulator
+and creating a numerical and experimental validation 
+framework for 4D-flow mri sequences. I am interested in
+cardiovascular biomechanics, coupling reduced order
+models with high fidelity models, predictive medicine,
+and verificaiton of non-invasive patient specific
+assessments.
