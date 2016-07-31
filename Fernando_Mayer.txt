@@ -1,0 +1,3 @@
+I'm a statistics professor at Federal University of Paraná (Brasil), and
+I've been working with data analysis and open source software since
+2004. I use and teach R in all classes in the University.
