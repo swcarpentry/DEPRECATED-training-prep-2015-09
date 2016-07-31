@@ -1,0 +1,1 @@
+I am a PhD candidate researching the ecology and evolution of morphological diversity in South African plants. My works invovles Bayesian modelling using R and associated Gibbs sampling programs, as well as using so-called "anchored phylogenomics", which employs hundreds of genomic loci, to reconstruct species evolutionary relationships.
