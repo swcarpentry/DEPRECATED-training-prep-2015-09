@@ -1,0 +1,6 @@
+I am a PhD candidate at the University of Southampton working in computer simulations of magnetic nano-systems.
+My main programming language for the past six years has been Python, but I do have in-depth knowledge of bash, C/C++, and to a lesser extent other languages.
+I have also worked as a data analyst and programmer for Flowminder, a non-profit organisation that works with NGOs and governmental organisations across the world with the aim to improve public health and welfare in low- and middle-income countries.
+I am passionate about teaching and sharing insights and have a lot of experience with teaching in a variety of topics and at various levels (from high school to university).
+I have run workshops and given talks on version control, reproducibility and related concepts in various research groups and at conferences.
+I am particularly interested in finding out how which techniques and tools (some of which may be well-established e.g. in the programming industry and some of which may not exist yet) can help researchers do a better job, reduce frustration and increase productivity while at the same time making computational science more reproducible.
