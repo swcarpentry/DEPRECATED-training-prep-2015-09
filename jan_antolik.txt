@@ -1,0 +1,2 @@
+I have been using python on daily basis for past 10 years in majority of my projects. 
+My work is mostly in computational neuroscience, and analysis of experimental data.
