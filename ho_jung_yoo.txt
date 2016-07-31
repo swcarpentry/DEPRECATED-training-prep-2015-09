@@ -1,0 +1,1 @@
+I am a Technical Analyst in the Research Data Curation Program at UC San Diego Library. I curate datasets in preparation for ingest into our data repository.
