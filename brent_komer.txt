@@ -1,0 +1,1 @@
+I'm a PhD student at the Computational Neuroscience Research Group at the University of Waterloo. I use Python to build computer simulations of biologically plausible neural networks to explore different models of cognition as well as robotic applications for neuromorphic hardware.
