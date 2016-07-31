@@ -1,0 +1,3 @@
+I am a graduate student in the Department of Atmospheric Sciences at the
+University of Washington. I test cloud models using observational data, and
+perform all of my analysis in Python.
