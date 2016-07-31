@@ -1,0 +1,14 @@
+David Jones is a Research Software Engineer
+in the Hide Lab for Computational Biology
+in the University of Sheffield.
+His current position follows a maths degree
+and more than 20 years in industry
+programming a variety of things
+(near real-time garbage collectors, video games, robotics,
+and, most recently, data oriented web apps).
+David loves Python, shell, and all things programmatical.
+He is passionate about bringing the joys of programming to
+a wider and more diverse audience.
+David has been a helper
+and an instructor
+at two previous Software Carpentry workshops.
