@@ -1,0 +1,1 @@
+I am a graduate bioinformatics student hoping to learn more about scientific computation through teaching. I hope to use this software carpentry course to expand the skills of others in my lab and school.
