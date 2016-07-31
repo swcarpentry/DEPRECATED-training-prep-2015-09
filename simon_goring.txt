@@ -1,0 +1,7 @@
+I am an Assistant Scientist at the University of Wisconsin
+I maintain an active GitHub account http://github.com/SimonGoring
+I study past land use change, forest cover and climate interactions over the last 21 thousand years.
+I have built an R package for ROpenSci (neotoma) and work extensively in R
+I took a Software Carpentry course at UW-Madison (Python & Git)
+I am teaching using Python, but would like to improve my software instruction skills
+I'd like to meet other people dedicated to improving their pedagological skills.
