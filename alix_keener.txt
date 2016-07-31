@@ -1,0 +1,1 @@
+I am the Digital Scholarship Librarian at the University of Michigan. I became interested in SWC when I participated in a Data Carpentry workshop at Michigan State University after the HASTAC conference. I would like to be able to teach software and data skills to students, especially in the humanities and social sciences.
