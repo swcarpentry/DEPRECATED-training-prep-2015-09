@@ -1,0 +1,1 @@
+I'm a PhD student in Computer Science at UC Santa Barbara. My current research is in detecting population-wise differences between groups of diffusion tractography images, or white matter tractography. I use mainly Python and Jupyter notebooks to explore the data I am working with and to set up repeatable experiments. 
