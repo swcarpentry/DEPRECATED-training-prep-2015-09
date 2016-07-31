@@ -1,0 +1,1 @@
+I am an economist.  I use python for webscraping and scripting with spatial datasets.  I also use R for econometrics. 
