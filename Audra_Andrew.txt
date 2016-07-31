@@ -1,0 +1,1 @@
+I am a PhD student studying gene expression patterns underlying organ regenerative growth in snake species. I use various R scripts and packages as well as pathway analysis programs to determine what mechanisms underlie this extreme response to feeding.
