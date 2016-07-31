@@ -1,0 +1,4 @@
+My name is Ryan Peek and I'm a PhD candidate in ecology at the University of California, Davis. 
+I am a researcher at the Center for Watershed Sciences and my research focuses on applied freshwater river ecology, in particular the effects of landscape change 
+and river regulation on population genetics of amphibians. I am particularly interested in applied research and communication, and have helped teach R and basic git use
+to a number of fellow graduate students and other researchers.
