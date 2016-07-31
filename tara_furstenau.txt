@@ -1,0 +1,4 @@
+I am a PhD candidate in Molecular and Cellular Biology.  
+I do research in spatial population genetics where I write
+simulations to model populations in space and have developed Bayesian inference models to estimate population parameters.  
+I write simulations in C++ and I analyze simulated data and genetic data using Python, R and Bash.  
