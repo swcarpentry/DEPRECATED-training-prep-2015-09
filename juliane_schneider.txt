@@ -1,0 +1,1 @@
+I am a metadata specialist for the UC San Diego Research Data Curation Program.  I analyze dataset structure, consult on data management best practices, and clean and normalize metadata, and then map it to our data model for ingest into our search/discovery tool.
