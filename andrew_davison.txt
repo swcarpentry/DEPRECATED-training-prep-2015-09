@@ -1,0 +1,25 @@
+I am a senior research scientist in the UNIC lab (Unité de Neurosciences,
+Information et Complexité) of the CNRS, where I lead the Neuroinformatics
+group. My ORCID identifier is 0000-0002-4793-7541.
+My homepage is at http://www.andrewdavison.info
+
+My main research interests are in large-scale, data-constrained,
+biologically-detailed modelling of neuronal networks. My work at the moment
+has several strands:
+
+- development of models of the early visual system, from retina to primary
+  visual cortex, in close collaboration with experimentalists.
+
+- development of tools to facilitate collaborative modelling, model sharing,
+  and the use of novel hardware (GPU, neuromorphic) for neuronal simulations,
+  notably PyNN, NineML and NeuroML.
+
+- promoting reproducible research in computational neuroscience and
+  neuroinformatics, both through trying to spread best practices and through 
+  tool development (see the Sumatra project).
+
+- promoting neurophysiology data sharing, by participation in international 
+  standardisation efforts, by development of tools to harmonize the handling
+  of electrophysiology data in Python (see the Neo project), and by
+  development of a framework to simplify databasing of neurophysiology data in
+  small labs (see the Helmholtz project).
