@@ -1,0 +1,2 @@
+I am Jes Ford, and I'm a postdoc in the eScience Institute at the University of Washington.
+I extract knowledge from astronomical datasets using (mostly) python code.
