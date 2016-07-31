@@ -1,0 +1,3 @@
+Hi, I am a biostatistician with the Computational Sciences Group at the Jackson Laboratory, Bar Habor, ME. As a biostatistician I use R heavily with frequent use of published git reporisotries.
+
+Vivek
