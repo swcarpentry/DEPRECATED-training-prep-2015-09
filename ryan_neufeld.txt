@@ -1,0 +1,1 @@
+I'm a Master's student in Chemical Engineering at the University of Waterloo. I'm developing computer simulations of liquid crystals to enable modeling and design of next-gen devices.
