@@ -1,0 +1,3 @@
+I am a graduate student working on problems in paleoclimate data assimilation.
+My research involves a mix of statistics and linear algebra on geospatial datasets,
+and I also help lead a Python seminar for faculty and students in our department.
