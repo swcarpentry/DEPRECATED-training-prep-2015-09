@@ -1,0 +1,1 @@
+I am an astronomy PhD student and I use Python for my research. I know a bit of R, SQL, and I am comfortable woring with Bash.
