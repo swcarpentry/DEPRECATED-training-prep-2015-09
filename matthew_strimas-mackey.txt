@@ -1,0 +1,1 @@
+I'm a master's student in Zoology at UBC with an interest in land use change and systematic conservation prioritizaiton in the tropics. Much of my work involves mapping, spatial analysis, and spatial modeling and I primarily use R for these tasks.
