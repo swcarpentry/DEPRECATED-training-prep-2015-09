@@ -1,0 +1,6 @@
+I'm a professor at Federal University of Paraná, in Brazil.
+I work with Applied Mathematics, specifically, Nonlinear Optimization.
+My line of work involves a great deal of programming, mostly using MatLab,
+but I rather use open source alternatives.
+I'm currently engaged on Julia language, but I also now a little of Python,
+Bash and C. I also use git and LaTeX on a daily basis.
