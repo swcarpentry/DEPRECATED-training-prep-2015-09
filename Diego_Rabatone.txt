@@ -1,0 +1,6 @@
+Hi, my name is Diego Rabatone Oliveira, I'm a brazilian hacker, engineer and developer.
+I work mostly with Data related projects, from gathering Data, cleaning it, analyzing and 
+creating visualizations.
+Mostly I work with Python+R, git and shell scripts for gather, clean and analyze data,
+JavaScript+HTML+CSS to build visualizations and
+LaTeX to build documents.
