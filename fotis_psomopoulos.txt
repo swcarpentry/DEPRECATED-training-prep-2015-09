@@ -1,0 +1,7 @@
+I am an Academic Fellow at the Aristotle University of Thessaloniki, where I am teaching Data Structures at the undergraduate program of the Dept. of Electrical and Computer Engineering.
+
+Moreover, I am a Team Leader on Bioinformatics at the Intelligent Systems and Software Engineering Lab (http://issel.ee.auth.gr), where we develop tools and components for large scale bioinformatics analyses on HPC infrastructures, with particular focus on the EGI infrastructure (currently an EGI Champion on Bioinformatics http://www.egi.eu/community/egi_champions/Fotis_Psomopoulos.html).
+
+Finally, I am a Research Associate at the Institute of Applied Biosciences (http://inab.certh.gr/), supporting the researchers with Bioinformatics processes, focusing on NGS data analyses, data annotation and data integration.
+
+A detailed CV can be found at my personal website: http://fotis.ee.auth.gr
