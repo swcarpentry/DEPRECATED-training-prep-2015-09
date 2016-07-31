@@ -1,0 +1,3 @@
+Hi, I am a PhD student in Linguistics. I work on understanding the cognitive processes involved with producing and understanding language, and I do that through statistical analysis of data from experiments and from corpora (large collections of texts in a language). I use Python and R to clean, process, and create statistical models of data. 
+
+Heather Simpson
