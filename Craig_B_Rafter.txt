@@ -1,0 +1,3 @@
+Originally from Dublin, Ireland, where I did my undergraduate and Masters degree in Electonic and Computer Engineering in University College Dublin. I moved to Southampton to do a PhD in the Transport Research Group at the University of Southampton, funcded by the EPSRC CDT for Next Generation Computational Modelling (NGCM).
+
+My research involves micro-simulation of scenarios involving automated vehicles in the transport network. Of particular interest is the development of new transport infrastructure that could help facilitate the operation of large numbers of driverless vehicles on our roads.
