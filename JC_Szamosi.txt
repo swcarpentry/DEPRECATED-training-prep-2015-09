@@ -1,0 +1,6 @@
+I am Jake (Judith) Cowper Szamosi. I have a M.Sc. in Biology from McMaster
+University (focusing on computational biology) and I now work at the
+metagenomics facility at McMaster providing data analysis services to labs. I
+also serve as an occasional TA to an introductory programming course using
+Python. My main languages are Python and R and I'm comfortable in the UNIX
+environment.
