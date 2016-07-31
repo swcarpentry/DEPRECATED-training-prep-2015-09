@@ -1,0 +1,5 @@
+My name is Elliott Sales de Andrade and I'm a PhD candidate at the University of
+Toronto studying Seismology. My research focuses on imaging the deep interior of
+the Earth for which I use various Fortran packages and Python for day-to-day
+analysis. I am also a session leader in the University of Toronto Scientific
+Coders group and have given talks about git and Python.
