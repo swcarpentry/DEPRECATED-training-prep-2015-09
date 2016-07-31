@@ -1,0 +1,4 @@
+I am a PhD student at the University of Toronto in biological physics.
+I use Python for analysis of genetic data and plotting, and I am ramping up use of Git as well. 
+I coordinate the "University of Toronto Scientific Coders", a peer-led coding group based on the Mozilla Study Group model. 
+I have led an Intro to Python session for the Scientific Coders group, and I'm interested in the Software Carpentry model of teaching. 
