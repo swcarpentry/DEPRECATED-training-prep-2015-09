@@ -1,0 +1,3 @@
+Hi. I'm Nikhil Gopal and I'm a PhD candidate at University of Washington in Seat
+tle. I work in the field of biomedical informatics, and I specialize on data vis
+ualization. I run a peer code group at UW, facilitating and encouraging a community of researchers interested in learning how to code or improve their code.
