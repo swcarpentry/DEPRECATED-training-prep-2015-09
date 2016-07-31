@@ -1,0 +1,1 @@
+I am a data scientist at the USGS office of water information and center for integrated data analytics. I primarily use R for data analysis. I work with environmental data (sensor data, model data, etc) primarily in water resources or climate. 
