@@ -1,0 +1,6 @@
+I'm a master's student in structural engineering and teaching
+assistant. My work consists in programming structural rod theories
+with exact kinematics and elastoplastic constitutive model for
+analysis with the finite element method. Most of my programming is
+with python bindings to C/C++ libraries and bash scripts to automate a
+few tasks and occasionally analyze logs.
