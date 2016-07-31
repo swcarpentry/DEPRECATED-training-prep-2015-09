@@ -1,0 +1,5 @@
+I'm Alex Demarsh.
+
+I'm an epidemiologist with the Public Health Agency of Canada and a PhD candidate at McGill University.
+
+I mostly do statistical programming using R and Python, as well as some web development.
