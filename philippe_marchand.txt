@@ -1,0 +1,1 @@
+As a scientific support specialist at SESYNC, I help the center-funded groups and resident researchers develop workflows for getting, combining, and analyzing data from various sources. I have experience with scientific programming in R, Python and Fortran as well as the use of relational databases/SQL.
