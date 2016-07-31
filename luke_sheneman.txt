@@ -1,0 +1,7 @@
+My name is Luke Sheneman.   I have a background in Computer Science and a Ph.D in Bioinformatics.   
+I am currently the Technology and Data Services Manager at the Northwest Knowledge Network (NKN) 
+at the University of Idaho.   NKN strives to enable data-intensive science through innovative data 
+management and the development of powerful data access discovery, and analytics capabilities.   
+I manage a staff of talented programmers, data managers, systems administrators, and web developers. 
+NKN is interested in participating as a group in both the upcoming Data and Software carpentry 
+instructor training programs.
