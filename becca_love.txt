@@ -1,0 +1,1 @@
+I work on the genomics of Anopheles mosquitoes, which transmit the parasites that cause malaria. Specifically, I analyze population structure of several subgroups of anopheline mosquitoes, and also test tools for better genome assembly in arthropods.
