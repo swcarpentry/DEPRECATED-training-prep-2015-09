@@ -1,0 +1,1 @@
+I am a research programmer with the Notre Dame Center for Research Computing. I mainly develop scientifically-focused python web applications using the Django framework. I also provide some project management oversight of development projects to ensure that customer expectations and deadlines are being met by the development group within our organization.
