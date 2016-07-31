@@ -1,0 +1,2 @@
+I am a Masters student doing bioinformatics research with time series RNA-Seq and whole genome alignments, which require the daily use of unix, python, and occasionally R. 
+I find it highly rewarding to help fellow students through conceptual roadblocks, since the right frame of mind makes googling all the much easier.
